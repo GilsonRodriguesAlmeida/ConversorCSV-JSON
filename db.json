@@ -1,0 +1,19 @@
+{
+  "obj": [ 
+    { 
+      "cor": "vermelho", 
+      "maxSpeed": 120, 
+      "idade": 2 
+    }, 
+    { 
+      "cor": "azul", 
+      "maxSpeed": 100, 
+      "idade": 3 
+    }, 
+    { 
+      "cor": "verde", 
+      "maxSpeed": 130, 
+      "idade": 2 
+    }
+  ]
+}
